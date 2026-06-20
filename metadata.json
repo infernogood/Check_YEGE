@@ -1,0 +1,6 @@
+{
+  "name": "EGE Results Portal",
+  "description": "Официальный информационный портал единого государственного экзамена",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
